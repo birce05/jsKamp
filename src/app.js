@@ -17,7 +17,7 @@ const euroDun = 11.2
 //euroDun = 11 //const ile değişken tanımladığımızda sadece bir kere tanımlanabilir yoksa hata verir//
 
 console.log(euroDun)
-let konutKredileri = ["Konut Kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","Hakan Kredisi"] 
+let konutKredileri = ["Konut Kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi"] 
 
 console.log("<ul>")
 for(let i =0;i<konutKredileri.length;i++ ){
